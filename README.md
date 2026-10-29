@@ -17,4 +17,16 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/princegoyal1/DSA/tree/master/0101-symmetric-tree) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/princegoyal1/DSA/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/princegoyal1/DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/princegoyal1/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
