@@ -38,6 +38,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/princegoyal1/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/princegoyal1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/princegoyal1/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
