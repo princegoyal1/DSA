@@ -4,10 +4,12 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/princegoyal1/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/princegoyal1/DSA/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/princegoyal1/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/princegoyal1/DSA/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
@@ -16,6 +18,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/princegoyal1/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/princegoyal1/DSA/tree/master/0101-symmetric-tree) |
 ## Array
 |  |
@@ -47,4 +50,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/princegoyal1/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/princegoyal1/DSA/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
