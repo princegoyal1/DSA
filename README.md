@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/princegoyal1/DSA/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/princegoyal1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/princegoyal1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/princegoyal1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
