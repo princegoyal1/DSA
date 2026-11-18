@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/princegoyal1/DSA/tree/master/0014-longest-common-prefix) |
+| [2000-reverse-prefix-of-word](https://github.com/princegoyal1/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Trie
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princegoyal1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/princegoyal1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [2000-reverse-prefix-of-word](https://github.com/princegoyal1/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/princegoyal1/DSA/tree/master/0225-implement-stack-using-queues) |
+| [2000-reverse-prefix-of-word](https://github.com/princegoyal1/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Design
 |  |
 | ------- |
