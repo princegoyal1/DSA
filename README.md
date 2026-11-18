@@ -56,4 +56,16 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/princegoyal1/DSA/tree/master/0098-validate-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/princegoyal1/DSA/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/princegoyal1/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/princegoyal1/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
