@@ -25,6 +25,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/princegoyal1/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princegoyal1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0682-baseball-game](https://github.com/princegoyal1/DSA/tree/master/0682-baseball-game) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/princegoyal1/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0682-baseball-game](https://github.com/princegoyal1/DSA/tree/master/0682-baseball-game) |
 | [2000-reverse-prefix-of-word](https://github.com/princegoyal1/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Design
 |  |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/princegoyal1/DSA/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/princegoyal1/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
