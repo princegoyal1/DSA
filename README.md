@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/princegoyal1/DSA/tree/master/0014-longest-common-prefix) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/princegoyal1/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/princegoyal1/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Trie
 |  |
@@ -64,6 +65,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/princegoyal1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/princegoyal1/DSA/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/princegoyal1/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/princegoyal1/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Design
 |  |
