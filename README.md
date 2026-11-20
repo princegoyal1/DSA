@@ -33,6 +33,7 @@
 | [0844-backspace-string-compare](https://github.com/princegoyal1/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/princegoyal1/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/princegoyal1/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/princegoyal1/DSA/tree/master/3174-clear-digits) |
 ## Trie
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0844-backspace-string-compare](https://github.com/princegoyal1/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/princegoyal1/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/princegoyal1/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/princegoyal1/DSA/tree/master/3174-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -83,4 +85,5 @@
 | ------- |
 | [0682-baseball-game](https://github.com/princegoyal1/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/princegoyal1/DSA/tree/master/0844-backspace-string-compare) |
+| [3174-clear-digits](https://github.com/princegoyal1/DSA/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
