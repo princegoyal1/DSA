@@ -26,6 +26,7 @@
 | [0014-longest-common-prefix](https://github.com/princegoyal1/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princegoyal1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0682-baseball-game](https://github.com/princegoyal1/DSA/tree/master/0682-baseball-game) |
+| [3903-smallest-stable-index-i](https://github.com/princegoyal1/DSA/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -86,4 +87,8 @@
 | [0682-baseball-game](https://github.com/princegoyal1/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/princegoyal1/DSA/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/princegoyal1/DSA/tree/master/3174-clear-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/princegoyal1/DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
